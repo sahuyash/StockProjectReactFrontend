@@ -1,0 +1,12 @@
+.get{
+    display: flex;
+    justify-content:space-around;
+    padding: 5px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    background-color: #DADED4;
+
+}
+.main{
+    text-align:center;
+}

@@ -1,0 +1,20 @@
+.main{
+    text-align:center;
+}
+input{
+    margin:0px 25ex;
+}
+.upload{
+    font-size: 20px;
+    margin:12ex 40ex;
+    
+}
+label{
+    position:absolute;
+    left:30ex;
+}
+.link{
+    position:absolute;
+    bottom: 10ex;
+    left:30ex;
+}

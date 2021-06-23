@@ -1,0 +1,19 @@
+.main{
+    text-align: center;
+}
+div{
+    margin:2em;
+}
+.form{
+    margin:5ex 30ex;
+    font-size: medium;
+}
+input{
+    position:absolute;
+    left:50ex;
+    
+}
+.save{
+    margin:5ex 20ex;
+    font-size: large;
+}
